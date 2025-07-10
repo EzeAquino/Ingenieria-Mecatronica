@@ -1,0 +1,396 @@
+[
+  {
+    "nombre": "Medios de Representación Gráfica 1",
+    "anio": 1,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": []
+  },
+  {
+    "nombre": "Introducción a la Ingeniería",
+    "anio": 1,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": []
+  },
+  {
+    "nombre": "Inglés",
+    "anio": 1,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": []
+  },
+  {
+    "nombre": "Taller de Informática General Y Aplicada",
+    "anio": 1,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": []
+  },
+  {
+    "nombre": "Medios de Representación Gráfica 2",
+    "anio": 1,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Medios de Representación Gráfica 1"]
+  },
+  {
+    "nombre": "Fundamentos de los Computadores Digitales",
+    "anio": 1,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Taller de Informática General Y Aplicada"]
+  },
+  {
+    "nombre": "Higiene y Seguridad en el Trabajo 1",
+    "anio": 1,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Introducción a la Ingeniería"]
+  },
+  {
+    "nombre": "Introducción a la Gestión del Medio Ambiente",
+    "anio": 1,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Introducción a la Ingeniería"]
+  },
+  {
+    "nombre": "Economía 1",
+    "anio": 1,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Introducción a la Ingeniería"]
+  },
+  {
+    "nombre": "Matemática 1",
+    "anio": 2,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Fundamentos de los Computadores Digitales"]
+  }
+  ,
+  {
+    "nombre": "Introducción a la Gestión de la Innovación y la Tecnología",
+    "anio": 2,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Introducción a la Ingeniería", "Inglés"]
+  },
+  {
+    "nombre": "Informática y Programación Industrial",
+    "anio": 2,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Fundamentos de los Computadores Digitales"]
+  },
+  {
+    "nombre": "Legislación y Ejercicio Profesional",
+    "anio": 2,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Higiene y Seguridad en el Trabajo 1"]
+  },
+  {
+    "nombre": "Gestión de la Calidad",
+    "anio": 2,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Economía 1"]
+  },
+  {
+    "nombre": "Economía 2",
+    "anio": 2,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Economía 1"]
+  },
+  {
+    "nombre": "Física 1",
+    "anio": 2,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Matemática 1"]
+  },
+  {
+    "nombre": "Organización y Gestión Industrial",
+    "anio": 2,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Gestión de la Calidad", "Economía 2"]
+  },
+  {
+    "nombre": "Fundamentos de Química",
+    "anio": 2,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Introducción a la Gestión del Medio Ambiente"]
+  },
+  {
+    "nombre": "Matemática 2",
+    "anio": 2,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Matemática 1"]
+  },
+  {
+    "nombre": "Cálculo 1",
+    "anio": 3,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Matemática 2"]
+  },
+  {
+    "nombre": "Termodinámica",
+    "anio": 3,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Física 1", "Fundamentos de Química"]
+  },
+  {
+    "nombre": "Física 2",
+    "anio": 3,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Física 1"]
+  },
+  {
+    "nombre": "Probabilidad y Estadística",
+    "anio": 3,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Matemática 1", "Gestión de la Calidad"]
+  },
+  {
+    "nombre": "Estática",
+    "anio": 3,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Física 1", "Medios de Representación Gráfica 2"]
+  },
+  {
+    "nombre": "Higiene y Seguridad en el Trabajo 2",
+    "anio": 3,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Higiene y Seguridad en el Trabajo 1", "Física 2"]
+  },
+  {
+    "nombre": "Cálculo 2",
+    "anio": 3,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Cálculo 1"]
+  },
+  {
+    "nombre": "Mecánica Teórica",
+    "anio": 3,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Cálculo 1"]
+  },
+  {
+    "nombre": "Electrónica General y de Potencia",
+    "anio": 3,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Física 2", "Informática y Programación Industrial"]
+  }
+  ,
+  {
+    "nombre": "Formulación Gestión y Evaluación de Proyectos",
+    "anio": 4,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Organización y Gestión Industrial"]
+  },
+  {
+    "nombre": "Mecánica de los Materiales",
+    "anio": 4,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Estática"]
+  },
+  {
+    "nombre": "Ciencia y Tecnología de los Materiales",
+    "anio": 4,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Fundamentos de Química"]
+  },
+  {
+    "nombre": "Electrotecnia",
+    "anio": 4,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Física 1", "Cálculo 1"]
+  },
+  {
+    "nombre": "Sistemas y Tecnologías para la Gestión Ambiental",
+    "anio": 4,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Organización y Gestión Industrial"]
+  },
+  {
+    "nombre": "Mecanismos",
+    "anio": 4,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Mecánica Teórica"]
+  },
+  {
+    "nombre": "Tecnología de Fabricación",
+    "anio": 4,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Mecanismos", "Mecánica de los Materiales"]
+  },
+  {
+    "nombre": "Tecnología del Calor",
+    "anio": 4,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Termodinámica", "Cálculo 2"]
+  },
+  {
+    "nombre": "Mecánica de los Fluidos",
+    "anio": 4,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Termodinámica", "Cálculo 2"]
+  },
+  {
+    "nombre": "Máquinas e Instalaciones Eléctricas",
+    "anio": 4,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Electrotecnia"]
+  },
+  {
+    "nombre": "Modelado y Dinámica de Sistemas Mecánicos",
+    "anio": 4,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Mecánica de los Materiales"]
+  },
+  {
+    "nombre": "Diseño de Componentes de Máquinas",
+    "anio": 5,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Tecnología de Fabricación", "Probabilidad y Estadística", "Modelado y Dinámica de Sistemas Mecánicos"]
+  },
+  {
+    "nombre": "Diseño de Sistemas Mecatrónicos",
+    "anio": 5,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Electrónica General y de Potencia"]
+  },
+  {
+    "nombre": "Vigilancia Tecnológica e Inteligencia Competitiva",
+    "anio": 5,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Legislación y Ejercicio Profesional", "Introducción a la Gestión de la Innovación y la Tecnología"]
+  },
+  {
+    "nombre": "Procesamiento de Señales",
+    "anio": 5,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Electrónica General y de Potencia"]
+  },
+  {
+    "nombre": "Automatización Industrial",
+    "anio": 5,
+    "cuatrimestre": 1,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Informática y Programación Industrial"]
+  },
+  {
+    "nombre": "Fundamentos de Robótica",
+    "anio": 5,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Diseño de Sistemas Mecatrónicos"]
+  },
+  {
+    "nombre": "Instrumentación Industrial",
+    "anio": 5,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Tecnología de Fabricación", "Máquinas e Instalaciones Eléctricas"]
+  },
+  {
+    "nombre": "Sistemas de Control",
+    "anio": 5,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Automatización Industrial"]
+  },
+  {
+    "nombre": "Redes de Comunicación Industriales",
+    "anio": 5,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Procesamiento de Señales"]
+  },
+  {
+    "nombre": "Proyecto en Ingeniería Mecatrónica",
+    "anio": 5,
+    "cuatrimestre": 2,
+    "cursada": true,
+    "aprobada": false,
+    "correlativas": ["Automatización Industrial", "Formulación Gestión y Evaluación de Proyectos", "Diseño de Componentes de Máquinas", "Diseño de Sistemas Mecatrónicos", "Vigilancia Tecnológica e Inteligencia Competitiva"]
+  }
+]
